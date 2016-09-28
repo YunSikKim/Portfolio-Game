@@ -1,0 +1,12 @@
+CGpApp::CGpApp()------------------------------------------------
+CGpApp::InitScript() -------------------------------------------
+OpenGL version: 3.3
+Err: glCurrentPaletteMatrixARB Failed.
+Err: glMatrixIndexPointerARB Failed.
+Err: glWeightPointerARB Failed.
+Complete EGL Create
+CGpApp::Init() -------------------------------------------------
+End Init -------------------------------------------------------
+Create System Environment Succeeded. -----------
+CGpApp::Destroy() ----------------------------------------------
+Warning: eglDestroySurface. It is only supported on the OpenGL ES.

@@ -1,0 +1,40 @@
+#define MAP_SIZE_X 100
+#define MAP_SIZE_Y 10
+#define MAP_START_X 150
+#define MAP_START_Y 50
+
+#define FLAG_SIZE_X 80
+#define FLAG_SIZE_Y 90
+
+#define TILE_MASH 10
+#define TILE_SIZE 50
+
+#define ITEM_FRUIT_COUNT 30
+#define ITEM_FRUIT_SIZE 20
+#define ITEM_FRUIT_SCORE 50
+#define ITEM_FRUIT_GAP 25
+#define ITEM_SKIL_COUNT 2
+#define ITEM_SKIL_SIZE 70
+#define ITEM_SKIL_SPEED_TIME 600
+#define ITEM_SKIL_JUMP_TIME 1200
+
+#define BG_IMAGE_SIZE 2200
+
+#define CHAR_MASH 2
+#define CHAR_LIFE 3
+#define CHAR_SPEED 4
+#define CHAR_SIZE_LIFE 50
+#define CHAR_SIZE_X 50
+#define CHAR_SIZE_Y 70
+#define CHAR_ANIMATION_STEP 5
+#define CHAR_ANIMATION_FRAME 10
+#define CHAR_START_POSITION_X 200
+#define CHAR_START_POSITION_Y 300
+
+#define CAMERA_BG_SPEED 5
+#define CAMERA_TILE_SPEED 2
+
+#define MARKER_START_X 200
+
+#define BLACK(nAlpha) D3DCOLOR_RGBA(0, 0, 0, nAlpha)
+#define BETWEEN(a, x, b) a<=x && b>x

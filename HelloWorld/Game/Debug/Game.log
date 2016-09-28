@@ -1,0 +1,86 @@
+﻿빌드 시작: 2015-06-12 오후 8:21:28
+     1>2 노드의 "C:\Users\세네이션\Desktop\김윤식\HelloWorld\Game\Game.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\Game.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\opencv 2.4.7\install\include" /I"C:\opencv 2.4.7\install\include\opencv" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt cCharacter.cpp cFlag.cpp cFont.cpp cFontManager.cpp cFruit.cpp cGame.cpp cGameEnding.cpp cGameHowtoPlay.cpp cGameIntro.cpp cGameKinect.cpp cGamePlay.cpp cGameTutorial.cpp cInputManager.cpp cIXAudio2.cpp cMain.cpp cSkil.cpp cSoundManager.cpp cSourceVoice.cpp cTexture.cpp cTextureManager.cpp cTile.cpp cWindow.cpp cWorld.cpp WaveFile.cpp
+         WaveFile.cpp
+         cWorld.cpp
+         cWindow.cpp
+         cTile.cpp
+     1>c:\users\세네이션\desktop\김윤식\helloworld\game\ctile.cpp(31): warning C4244: '=' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\세네이션\desktop\김윤식\helloworld\game\ctile.cpp(32): warning C4244: '=' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\세네이션\desktop\김윤식\helloworld\game\ctile.cpp(33): warning C4244: '=' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\세네이션\desktop\김윤식\helloworld\game\ctile.cpp(34): warning C4244: '=' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\세네이션\desktop\김윤식\helloworld\game\ctile.cpp(36): warning C4244: '초기화 중' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\세네이션\desktop\김윤식\helloworld\game\ctile.cpp(36): warning C4244: '초기화 중' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\세네이션\desktop\김윤식\helloworld\game\ctile.cpp(36): warning C4244: '초기화 중' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\세네이션\desktop\김윤식\helloworld\game\ctile.cpp(36): warning C4244: '초기화 중' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+         cTextureManager.cpp
+         cTexture.cpp
+         cSourceVoice.cpp
+         cSoundManager.cpp
+         cSkil.cpp
+     1>c:\users\세네이션\desktop\김윤식\helloworld\game\cskil.cpp(21): warning C4244: '=' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\세네이션\desktop\김윤식\helloworld\game\cskil.cpp(22): warning C4244: '=' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\세네이션\desktop\김윤식\helloworld\game\cskil.cpp(23): warning C4244: '=' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\세네이션\desktop\김윤식\helloworld\game\cskil.cpp(24): warning C4244: '=' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\세네이션\desktop\김윤식\helloworld\game\cskil.cpp(26): warning C4244: '초기화 중' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\세네이션\desktop\김윤식\helloworld\game\cskil.cpp(26): warning C4244: '초기화 중' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\세네이션\desktop\김윤식\helloworld\game\cskil.cpp(26): warning C4244: '초기화 중' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\세네이션\desktop\김윤식\helloworld\game\cskil.cpp(26): warning C4244: '초기화 중' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+         cMain.cpp
+         c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+     1>c:\users\세네이션\desktop\김윤식\helloworld\game\ccharacter.h(2): fatal error C1083: 포함 파일을 열 수 없습니다. 'highgui.h': No such file or directory
+         cIXAudio2.cpp
+         cInputManager.cpp
+         c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         cGameTutorial.cpp
+         c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         cGamePlay.cpp
+         c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+     1>c:\users\세네이션\desktop\김윤식\helloworld\game\ccharacter.h(2): fatal error C1083: 포함 파일을 열 수 없습니다. 'highgui.h': No such file or directory
+         cGameKinect.cpp
+     1>c:\users\세네이션\desktop\김윤식\helloworld\game\cgamekinect.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'highgui.h': No such file or directory
+         cGameIntro.cpp
+         cGameHowtoPlay.cpp
+         c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         cGameEnding.cpp
+         c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         cGame.cpp
+         c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+     1>c:\users\세네이션\desktop\김윤식\helloworld\game\ccharacter.h(2): fatal error C1083: 포함 파일을 열 수 없습니다. 'highgui.h': No such file or directory
+         cFruit.cpp
+     1>c:\users\세네이션\desktop\김윤식\helloworld\game\cfruit.cpp(24): warning C4244: '=' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\세네이션\desktop\김윤식\helloworld\game\cfruit.cpp(25): warning C4244: '=' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\세네이션\desktop\김윤식\helloworld\game\cfruit.cpp(26): warning C4244: '=' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\세네이션\desktop\김윤식\helloworld\game\cfruit.cpp(27): warning C4244: '=' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\세네이션\desktop\김윤식\helloworld\game\cfruit.cpp(29): warning C4244: '초기화 중' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\세네이션\desktop\김윤식\helloworld\game\cfruit.cpp(29): warning C4244: '초기화 중' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\세네이션\desktop\김윤식\helloworld\game\cfruit.cpp(29): warning C4244: '초기화 중' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\세네이션\desktop\김윤식\helloworld\game\cfruit.cpp(29): warning C4244: '초기화 중' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+         코드를 생성하고 있습니다...
+         컴파일하고 있습니다...
+         cFontManager.cpp
+         cFont.cpp
+     1>c:\users\세네이션\desktop\김윤식\helloworld\game\cfont.cpp(41): warning C4244: '초기화 중' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\세네이션\desktop\김윤식\helloworld\game\cfont.cpp(41): warning C4244: '초기화 중' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\세네이션\desktop\김윤식\helloworld\game\cfont.cpp(48): warning C4244: '초기화 중' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\세네이션\desktop\김윤식\helloworld\game\cfont.cpp(48): warning C4244: '초기화 중' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+         cFlag.cpp
+     1>c:\users\세네이션\desktop\김윤식\helloworld\game\cflag.cpp(31): warning C4244: '=' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\세네이션\desktop\김윤식\helloworld\game\cflag.cpp(32): warning C4244: '=' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\세네이션\desktop\김윤식\helloworld\game\cflag.cpp(33): warning C4244: '=' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\세네이션\desktop\김윤식\helloworld\game\cflag.cpp(34): warning C4244: '=' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\세네이션\desktop\김윤식\helloworld\game\cflag.cpp(36): warning C4244: '초기화 중' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\세네이션\desktop\김윤식\helloworld\game\cflag.cpp(36): warning C4244: '초기화 중' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\세네이션\desktop\김윤식\helloworld\game\cflag.cpp(36): warning C4244: '초기화 중' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\세네이션\desktop\김윤식\helloworld\game\cflag.cpp(36): warning C4244: '초기화 중' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+         cCharacter.cpp
+     1>c:\users\세네이션\desktop\김윤식\helloworld\game\ccharacter.h(2): fatal error C1083: 포함 파일을 열 수 없습니다. 'highgui.h': No such file or directory
+         코드를 생성하고 있습니다...
+     1>"C:\Users\세네이션\Desktop\김윤식\HelloWorld\Game\Game.vcxproj" 프로젝트를 빌드했습니다(build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:26.16

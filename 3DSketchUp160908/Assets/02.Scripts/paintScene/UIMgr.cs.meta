@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2d51fb162a4f898408cd488984b0ef8e
+timeCreated: 1470299191
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - CUBE: {fileID: 133528, guid: 9f4b02e56ae67c747b48300b69545be6, type: 2}
+  - CYLINDER: {fileID: 178114, guid: 8c193a6b48ee44a4d8e4c2b434a7b602, type: 2}
+  - SPHERE: {fileID: 132046, guid: cb01257208d4cab45b1cc131e9171a98, type: 2}
+  - TRIANGULAR: {fileID: 133666, guid: c6ff854ae58d92849b67c2811fd11f72, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

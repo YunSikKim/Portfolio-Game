@@ -1,0 +1,47 @@
+﻿빌드 시작: 2013-11-23 오후 3:29:58
+     1>2 노드의 "C:\Users\세네이션\Desktop\김윤식\EASY FrameWork vMaking\Game\Game.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "Release\Game.unsuccessfulbuild"에 연결(touching)하고 있습니다.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt cCharacter.cpp cFlag.cpp cFont.cpp cFontManager.cpp cFruit.cpp cGame.cpp cGameHowtoPlay.cpp cGameIntro.cpp cGameKinect.cpp cGamePlay.cpp cGameTutorial.cpp cInputManager.cpp cMain.cpp cSkil.cpp cTexture.cpp cTextureManager.cpp cTile.cpp cWindow.cpp
+         cCharacter.cpp
+     1>c:\users\세네이션\desktop\김윤식\easy framework vmaking\game\cWindow.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+         cFlag.cpp
+     1>c:\users\세네이션\desktop\김윤식\easy framework vmaking\game\cWindow.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+         cFont.cpp
+     1>c:\users\세네이션\desktop\김윤식\easy framework vmaking\game\cWindow.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+         cFontManager.cpp
+     1>c:\users\세네이션\desktop\김윤식\easy framework vmaking\game\cWindow.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+         cFruit.cpp
+     1>c:\users\세네이션\desktop\김윤식\easy framework vmaking\game\cWindow.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+         cGame.cpp
+     1>c:\users\세네이션\desktop\김윤식\easy framework vmaking\game\cWindow.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+         cGameHowtoPlay.cpp
+     1>c:\users\세네이션\desktop\김윤식\easy framework vmaking\game\cWindow.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+         cGameIntro.cpp
+     1>c:\users\세네이션\desktop\김윤식\easy framework vmaking\game\cWindow.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+         cGameKinect.cpp
+     1>c:\users\세네이션\desktop\김윤식\easy framework vmaking\game\cGameKinect.h(2): fatal error C1083: 포함 파일을 열 수 없습니다. 'highgui.h': No such file or directory
+         cGamePlay.cpp
+     1>c:\users\세네이션\desktop\김윤식\easy framework vmaking\game\cWindow.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+         cGameTutorial.cpp
+     1>c:\users\세네이션\desktop\김윤식\easy framework vmaking\game\cWindow.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+         cInputManager.cpp
+     1>c:\users\세네이션\desktop\김윤식\easy framework vmaking\game\cWindow.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+         cMain.cpp
+     1>c:\users\세네이션\desktop\김윤식\easy framework vmaking\game\cWindow.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+         cSkil.cpp
+     1>c:\users\세네이션\desktop\김윤식\easy framework vmaking\game\cWindow.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+         cTexture.cpp
+     1>c:\users\세네이션\desktop\김윤식\easy framework vmaking\game\cWindow.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+         cTextureManager.cpp
+     1>c:\users\세네이션\desktop\김윤식\easy framework vmaking\game\cWindow.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+         cTile.cpp
+     1>c:\users\세네이션\desktop\김윤식\easy framework vmaking\game\cWindow.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+         cWindow.cpp
+     1>c:\users\세네이션\desktop\김윤식\easy framework vmaking\game\cWindow.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+     1>"C:\Users\세네이션\Desktop\김윤식\EASY FrameWork vMaking\Game\Game.vcxproj" 프로젝트를 빌드했습니다(build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:08.37
